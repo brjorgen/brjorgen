@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brjorgen
 - 👀 I’m interested in embedded systems, scripting my life and computer generated imagery!
-- 🌱 I’m currently learning Rust 🦀
-- 💞️ I’m looking to collaborate on any kind of libre project with the need for extra arms.
+- 🌱 I’m currently honing my craft (generally speaking)
+- 💞️ I’m looking to collaborate on any kind of libre project with the need for extra arms
 - 📫 How to reach me: don't
 
 <!---
